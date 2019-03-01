@@ -1,4 +1,4 @@
-const $element = $(".walk");
+const $element = $(".walk>use");
 const imagePath = "./destination";
 const totalFrames = 260;
 const timePerFrame = 24;
